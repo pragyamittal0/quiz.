@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>result</title>
+<style>
+body{background-color:#ADD8E6;}
+h1{background-color: orange;text-shadow:2px 2px 5px blue;}
+</style>
+</head>
+<body>
+<h1> THE CORRECT ANSWERS ARE:- </h1>
+<p> 1.<b>Rice</b> </p>
+<p> 2.<b>Vatican City</b> </p>
+<p> 3.<b>Germany</b> </p>
+<p> 4.<b>Canada</b> </p>
+<p> 5.<b>Surface Tension </b> </p>
+<p> 6.<b>Nasik</b> </p>
+<p> 7.<b>Football</b> </p>
+</body>
+</html>
+

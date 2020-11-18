@@ -1,0 +1,13 @@
+body{
+background-color:#F08080;
+border: 60px solid transparent;
+padding:15px;
+border-image: url(https://s3-ap-southeast-1.amazonaws.com/gounesco.com/wp-content/uploads/2014/05/13031215/quiz.png)100% round;
+}
+img.middle{
+vertical-align: middle;
+}
+h1{
+text-shadow:2px 2px 5px blue;
+font-family:"Comic Sans MS", cursive, sans-serif;
+test-align:center;}
